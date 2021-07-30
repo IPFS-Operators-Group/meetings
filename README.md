@@ -2,7 +2,9 @@
 
 ## Meeting notes
 
-* [July 6, 2021](meetings/06-07-2021.md)
+* IPFS Operators Group Kick Off Meeting [July 6, 2021](meetings/06-07-2021.md)
+* IPFS Cluster Overview [July 14, 2021](meetings/14-07-2021.md)
+* DMCA and Related Compliance [August 3rd, 2021](meetings/03-08-2021.md)
 
 Calendar of [upcoming events on Luma »](https://lu.ma/community/com-X99ybCd2GtzFPTB/calendar)
 
